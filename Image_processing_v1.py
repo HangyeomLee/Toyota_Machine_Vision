@@ -1,3 +1,5 @@
+# This project is meant to be run in google collab (Jupyter Notebook)
+
 # -*- coding: utf-8 -*-
 """Tokyo_Drift_Team.ipynb
 
