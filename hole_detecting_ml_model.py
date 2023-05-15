@@ -34,7 +34,7 @@ import random
 
 #labelbox api setting
 
-API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjbGhuaHljd2Qwa2diMDd6bzJvcG81NnVyIiwib3JnYW5pemF0aW9uSWQiOiJjbGhuaHljdzAwa2dhMDd6bzY5d2NnZ2RpIiwiYXBpS2V5SWQiOiJjbGhucGc5eG8waXgzMDcwOWV4b3IyeDdzIiwic2VjcmV0IjoiYzljMjMxNDA2MGY1OGE5M2NiNDFiZmM2MjFlZmQzMjQiLCJpYXQiOjE2ODQwODYyMTcsImV4cCI6MjMxNTIzODIxN30.lsfnwlRgij9iGfOlqjshZwgv_OOPdELq5UNRocNSjDM'
+API_KEY = ''
 client = Client(API_KEY)
 project_id = 'clhnnfzgh0gtc072k5ql6drhl'
 project = client.get_project(project_id)
