@@ -1,7 +1,7 @@
 # Toyota RAV-4 Sticker and Hole Automation Program
 ![image](https://github.com/AminAmbike/Toyota_Machine_Vision/assets/113309178/2b2dd7ff-de53-4542-b810-062faa4cc4dc)
 
-Development Team: Amin Ambike, Hangyeom Lee, Spiros Goros, Jason Ling, Brent Morris - All first year engineering students at the University of Waterloo
+Development Team: **Amin Ambike, Hangyeom Lee, Spiros Goros, Jason Ling, Brent Morris** - All first year engineering students at the University of Waterloo
 
 **Problem:**
 
