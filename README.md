@@ -25,7 +25,7 @@ This proposal presents a dependable approach to leverage automation in order to 
 
 2. Hole Detection: Utilize computer vision techniques to identify potential locations of holes. This entails employing edge detection, contour analysis, and adaptive thresholding methods to pinpoint regions where stickers are missing, indicating the presence of holes. These techniques enable the detection and localization of areas that require further attention due to the absence of stickers.
 
-3. Precision Measurement: Calculate the distance between the centroids of stickers and holes found within the image using computer vision analysis. If the distance is less than the sum of the radii, we can determine that a sticker was improperly placed.
+3. Precision Measurement: Calculate the distance between the centroids of stickers and holes found within the image using computer vision analysis. If the distance is less than the sum of the radii, we can determine that a sticker was improperly placed and is labelled as overlapped.
 
 **Machine Learning Model**
 
