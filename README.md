@@ -47,24 +47,25 @@ Developed a machine learning model which can conclusivley determine weather a ci
 # Sample Screenshots
 
 **Test Image**
-
-![image](https://github.com/AminAmbike/Toyota_Machine_Vision/assets/113309178/1b94d53b-a2e9-4c9f-887d-70caa4f22843)
+![image](https://github.com/HangyeomLee/Toyota_Machine_Vision/assets/113309178/5ef65521-8230-4341-8a4f-d8cd6b73c16f)
 
 **Coloured object detection and image thresholding**
 
-![image](https://github.com/AminAmbike/Toyota_Machine_Vision/assets/113309178/63013956-432e-423e-a2f0-8bd8e9d12545)
+![image](https://github.com/HangyeomLee/Toyota_Machine_Vision/assets/113309178/7585cde5-da51-4254-8e86-57b4d188365f)
+
+![image](https://github.com/HangyeomLee/Toyota_Machine_Vision/assets/113309178/1486f0c9-330c-4345-9a65-c36b07be9d72)
 
 **Futher thresholding and shape detection**
 
-![image](https://github.com/AminAmbike/Toyota_Machine_Vision/assets/113309178/95f5d137-3898-4379-8f9c-2dcbb008195e)
+![image](https://github.com/HangyeomLee/Toyota_Machine_Vision/assets/113309178/b6c9ba6c-a797-4cdb-abeb-893df16e350d)
 
 **Improperly placed sticker detection**
 
-![image](https://github.com/AminAmbike/Toyota_Machine_Vision/assets/113309178/28f44419-7657-4ccf-89d6-c378dd57c63e)
+![image](https://github.com/HangyeomLee/Toyota_Machine_Vision/assets/113309178/c97bc6ac-a775-4a2f-aa04-e750673d2544)
 
 **Irregular countour detection**
 
-![image](https://github.com/AminAmbike/Toyota_Machine_Vision/assets/113309178/52773e91-fd96-4583-afff-aafc902df1fe)
+![image](https://github.com/HangyeomLee/Toyota_Machine_Vision/assets/113309178/84602377-07ef-455f-8192-beea1335ec26)
 
 
 
